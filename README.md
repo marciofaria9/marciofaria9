@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- 🌱 I’m currently learning  HTML, CSS, JavaScript and MySQL...
+ 🌱 I’m currently learning  HTML, CSS, JavaScript and SQL Query...
 
 <div align="center">
   <a href="https://github.com/marciofaria9">
