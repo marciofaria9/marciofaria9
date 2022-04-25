@@ -18,8 +18,7 @@
    <img  align="center" alt="Rafa-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
    <img  align="center" alt="Rafa-tipe" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
                   
- 
-   
+
   ##
   
   <div> 
