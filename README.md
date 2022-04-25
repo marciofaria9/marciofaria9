@@ -1,6 +1,9 @@
 ### Hi there 👋
 
- 🌱 I’m currently learning  HTML, CSS, JavaScript and SQL Query...
+ 🌱 Wellcome to my GitHub :)
+ I.T Assistant at Unimed and 5th period Graduation of the Information System at the Univas
+ <br>
+ Im current learning Angular, SQL Query and Java
 
 <div align="center">
   <a href="https://github.com/marciofaria9">
