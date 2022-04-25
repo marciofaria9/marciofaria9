@@ -1,7 +1,6 @@
 ### Hi there 👋
 
- ###🌱 Wellcome to my GitHub :)
- I.T Assistant at Unimed and 5th period Information System Graduate at Univas
+ 🌱  I.T Assistant at Unimed and 5th period Information System Graduate at Univas
  <br>
  Im current learning Angular, SQL Query and Java
 
