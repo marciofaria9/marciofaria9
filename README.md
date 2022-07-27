@@ -4,7 +4,7 @@
  <br>
  Im current learning Angular, SQL Query and Java
   <br>
-In this profilel you will find some graduations projects
+In this profile you will find some graduations projects
 <div align="center">
   <a href="https://github.com/marciofaria9">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marciofaria9&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
