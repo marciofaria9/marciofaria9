@@ -2,7 +2,7 @@
 
  🌱  I.T Analist at Unimed and 6th period Information System Graduating at Univas
  <br>
- Im current learning Node.js, SQL Query and Java
+ Im current learning Node.js, SQL Query,Docker and Java
   <br>
 In this profile you will find some graduations projects
 <div align="center">
