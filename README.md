@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- 🌱  I.T Analist at Unimed and 6th period Information System Graduating at Univas
+ 🌱  I.T Analist at Unimed and 7th period Information System Graduating at Univas
  <br>
  Im current learning Node.js, SQL Query,Docker and Java
   <br>
